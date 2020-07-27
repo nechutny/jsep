@@ -26,7 +26,7 @@
 		COMMA_CODE  = 44, // ','
 		SQUOTE_CODE = 39, // single quote
 		DQUOTE_CODE = 34, // double quotes
-		TEMPLATE_CODE = 44, // double quotes
+		TEMPLATE_CODE = 96, // template string literal
 		OPAREN_CODE = 40, // (
 		CPAREN_CODE = 41, // )
 		OBRACK_CODE = 91, // [
